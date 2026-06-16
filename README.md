@@ -1,5 +1,4 @@
 # Hi, I'm cocoa6874!  
-趣味で個人開発してます。
 ### Tech Stack & Tools
 - **Language** python / C++ / Web系
 - **Editor** Neovim
@@ -17,7 +16,8 @@
 - [Blog](blog.eternitysystem.net)
 
 <div align="center">
-  <img src="https://wakatime.com/share/@58ef7277-4563-4699-9339-b85b82959213/3a46df82-ab7d-46ad-8d22-da96bd6c6174.svg" width="48%" />
+  <img src="https://wakatime.com/share/@58ef7277-4563-4699-9339-b85b82959213/3a46df82-ab7d-46ad-8d22-da96bd6c6174.svg" width="45%" />
   
-  <img src="https://wakatime.com/share/@58ef7277-4563-4699-9339-b85b82959213/e7dd0d3a-588a-4944-aceb-67443014e5e6.svg" width="48%" />
+  <img src="https://wakatime.com/share/@58ef7277-4563-4699-9339-b85b82959213/e7dd0d3a-588a-4944-aceb-67443014e5e6.svg" width="45%" />
+  <img src="https://wakatime.com/share/@58ef7277-4563-4699-9339-b85b82959213/533ed9a0-d47e-4e6e-af5b-9cd46b78d525.svg" width="45%" />
 </div>
