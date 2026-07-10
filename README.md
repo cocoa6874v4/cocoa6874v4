@@ -1,13 +1,15 @@
 # Hi, I'm cocoa6874!  
 ### Tech Stack & Tools
-- **Language** python / C++ / Web系
+- **Language** C++ / Python
 - **Editor** Neovim
-- **Favorite theme** Catppuccin
+- **OS** Archlinux / Windows
 
 ### Currently Working On
-- Discord Bot作成
-- ブログ作成
-- その他色々
+- Discord Bot
+- blog
+- Game Hacking
+- HWID License system
+- And more
 
 ### My Account
 - [Discord](discord.gg/nW6J6cj25Z)
