@@ -2,10 +2,9 @@
 ### Tech Stack & Tools
 - **Language** C++ / Python
 - **Editor** Neovim
-- **OS** Archlinux / Windows
+- **OS** ~~Archlinux~~ -> NixOS / Windows
 
 ### Currently Working On
-- Discord Bot
 - blog
 - Game Hacking
 - HWID License system
