@@ -1,8 +1,10 @@
 # Hi, I'm cocoa6874!  
+## Reject AI  
+## AIはコーディングに使用しません。  
 ### Tech Stack & Tools
 - **Language** C++ / Python
 - **Editor** Neovim
-- **OS** ~~Archlinux~~ -> NixOS / Windows
+- **OS** ~~Archlinux~~ -> ~~cachyOS~~ -> ~~NixOS~~ -> ArchLinux
 
 ### Currently Working On
 - blog
