@@ -1,6 +1,6 @@
 # Hi, I'm cocoa6874!  
 ## Reject AI  
-## AIはコーディングに使用しません。  
+### コーディングにAIは使用しません。  
 ### Tech Stack & Tools
 - **Language** C++ / Python
 - **Editor** Neovim
