@@ -1,10 +1,10 @@
 # Hi, I'm cocoa6874!  
 ## Reject AI  
-### コーディングにAIは使用しません。  
 ### Tech Stack & Tools
 - **Language** C++ / Python
 - **Editor** Neovim
 - **OS** ~~Archlinux~~ -> ~~cachyOS~~ -> ~~NixOS~~ -> ArchLinux
+I am studying reverse engineering.  
 
 ### Currently Working On
 - blog
