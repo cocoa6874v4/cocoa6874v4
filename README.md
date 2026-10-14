@@ -3,7 +3,7 @@
 ### Tech Stack & Tools
 - **Language** C++ / Python
 - **Editor** Neovim
-- **OS** ~~Archlinux~~ -> ~~cachyOS~~ -> ~~NixOS~~ -> ArchLinux
+- **OS** ~~Archlinux~~ -> ~~NixOS~~ -> ArchLinux.  
 I am studying reverse engineering.  
 
 ### Currently Working On
