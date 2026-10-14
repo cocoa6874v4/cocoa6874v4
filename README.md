@@ -4,19 +4,14 @@
 - **Language** C++ / Python
 - **Editor** Neovim
 - **OS** ~~Archlinux~~ -> ~~NixOS~~ -> ArchLinux.  
-I am studying reverse engineering.  
 
 ### Currently Working On
-- blog
 - Game Hacking
 - HWID License system
+- Blog
 - And more
-
-### My Account
-- [Discord](discord.gg/nW6J6cj25Z)
-- [Youtube](https://www.youtube.com/@cocoro6874)
-- [Twitter](https://x.com/cocoa6874)
-- [Blog](blog.eternitysystem.net)
+  
+I am studying reverse engineering. 
 
 <div align="center">
   <img src="https://wakatime.com/share/@58ef7277-4563-4699-9339-b85b82959213/3a46df82-ab7d-46ad-8d22-da96bd6c6174.svg" width="45%" />
